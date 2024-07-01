@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = spatou778@yahoo.fr
+	name = Patricia Stojanovic
